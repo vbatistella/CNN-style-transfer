@@ -19,12 +19,12 @@ Using feature extraction and an optimizer, we can get the important features fro
 ### Results
 Photo:
 
-![photo](in/in_photo.jpg =288x512)
+<img src="https://github.com/vbatistella/CNN-style-transfer/blob/main/in/in_photo.jpg" width="288" height="512">
 
 Style:
 
-![style](in/in_style.png =288x512)
+<img src="https://github.com/vbatistella/CNN-style-transfer/blob/main/in/in_style.png" width="288" height="512">
 
 Result:
 
-![result](out/out.png =288x512)
+<img src="https://github.com/vbatistella/CNN-style-transfer/blob/main/out/out.png" width="288" height="512">
